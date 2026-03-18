@@ -41,6 +41,4 @@ This enables bracket colorization — `()` render in blue, `{}` in pink, making 
 | Brackets `{}` | `#ff6eb4` |
 | Numbers | `#f79157` |
 
-## Author
 
-**BLACC!NIRVANA** — music producer, Rust developer, eternal learner-creator.
