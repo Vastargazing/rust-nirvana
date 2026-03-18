@@ -1,0 +1,11 @@
+[extension]
+id = "rust-nirvana"
+name = "Rust Nirvana"
+version = "1.0.0"
+schema_version = 1
+description = "A warm, rust-toned dark theme with colorized brackets. Inspired by Kimbie Dark — refined for Rust developers."
+authors = ["BLACC!NIRVANA"]
+repository = "https://github.com/BLACCNIRVANA/rust-nirvana"
+
+[themes]
+path = "themes"
