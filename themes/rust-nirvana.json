@@ -4,7 +4,7 @@
   "themes": [
     {
       "name": "Rust Nirvana",
-      "appearance": "dark",c
+      "appearance": "dark",
       "style": {
         "background": "#1a1818",
         "foreground": "#d3af86",
@@ -48,14 +48,6 @@
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#3f3c3c",
 
-        "surface.background": "#1e1c1c",
-        "elevated_surface.background": "#222020",
-
-        "text.accent": "#d3af86",
-        "text.muted": "#a3a19b",
-
-        "ghost_element.background": "#1a1818",
-        "ghost_element.hover": "#2e2b2b",
 
         "search.match_background": "#4a3f2f",
 
