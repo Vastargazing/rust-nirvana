@@ -1,7 +1,7 @@
 [extension]
 id = "rust-nirvana"
 name = "Rust Nirvana"
-version = "1.0.0"
+version = "1.0.1"
 schema_version = 1
 description = "A warm, rust-toned dark theme with colorized brackets. Inspired by Kimbie Dark — refined for Rust developers."
 authors = ["Vastargazing"]
